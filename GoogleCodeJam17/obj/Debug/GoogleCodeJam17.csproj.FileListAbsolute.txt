@@ -1,0 +1,6 @@
+C:\Users\durga.naganaboina\source\repos\GoogleCodeJam17\GoogleCodeJam17\bin\Debug\GoogleCodeJam17.exe.config
+C:\Users\durga.naganaboina\source\repos\GoogleCodeJam17\GoogleCodeJam17\bin\Debug\GoogleCodeJam17.exe
+C:\Users\durga.naganaboina\source\repos\GoogleCodeJam17\GoogleCodeJam17\bin\Debug\GoogleCodeJam17.pdb
+C:\Users\durga.naganaboina\source\repos\GoogleCodeJam17\GoogleCodeJam17\obj\Debug\GoogleCodeJam17.csproj.CoreCompileInputs.cache
+C:\Users\durga.naganaboina\source\repos\GoogleCodeJam17\GoogleCodeJam17\obj\Debug\GoogleCodeJam17.exe
+C:\Users\durga.naganaboina\source\repos\GoogleCodeJam17\GoogleCodeJam17\obj\Debug\GoogleCodeJam17.pdb
